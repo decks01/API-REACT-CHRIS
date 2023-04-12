@@ -1,0 +1,30 @@
+{
+  "name": "api-react-chris",
+  "version": "1.0.0",
+  "description": "Api de Pruebas de chris",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/decks01/API-REACT-CHRIS.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/decks01/API-REACT-CHRIS/issues"
+  },
+  "homepage": "https://github.com/decks01/API-REACT-CHRIS#readme",
+  "dependencies": {
+    "@prisma/client": "^4.12.0",
+    "body-parser": "^1.20.2",
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "nodemon": "^2.0.22",
+    "nodmeon": "^0.0.1-security",
+    "prisma": "^4.12.0"
+  }
+}
